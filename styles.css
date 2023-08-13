@@ -1,0 +1,56 @@
+#img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    padding: 0.9rem;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    
+  }
+  
+  body {
+    text-align: center;
+    background-color: #BDB76B;
+    
+  }
+  
+  figure {
+    background-color:	#FFF8DC;
+    padding: 1.5rem;
+    
+  }
+  
+  p:last {
+    padding: 1.5rem;
+    border: none;
+    margin: none;
+    width: 0;
+  }
+  
+  #tribute-info {
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.5
+  }
+  #tribute-link {
+    text-align: center;
+    margin: auto;
+  }
+  
+  #img-caption {
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.5
+  }
+  
+  a {
+    color: rgb(255, 0, 255);
+    text-decoration: none;
+    font-size: 25px;
+    background-color: white;
+    padding: 2px;
+  }
